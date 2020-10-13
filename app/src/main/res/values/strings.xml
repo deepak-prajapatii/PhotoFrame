@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Photo Frame</string>
+    <string name="gallery">Gallery</string>
+    <string name="img">Image</string>
+    <string name="prev_img">Previous</string>
+    <string name="next_img">Next</string>
+    <string name="imgName">Grid</string>
+</resources>
